@@ -2,7 +2,7 @@
 
 <br>
 <h1 align="center">Hi 👋, I'm Nawfal Benamor</h1>
-<h3 align="center">A Full Stack Web Developer From Tunisia</h3>
+<h3 align="center">A Full Stack Software Developer From Tunisia</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benamornawfal&label=Profile%20views&color=0e75b6&style=flat" alt="benamornawfal" /> </p>
