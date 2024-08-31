@@ -10,17 +10,17 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benamornawfal" alt="benamornawfal" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/3d-cartoon-using-laptops-sitting-chairs-cute-cartoon-working-playing-social-media-technology-futuristic-poster-ai-generative_43969-5452.jpg?size=626&ext=jpg&ga=GA1.1.1826414947.1699056000&semt=ais">
 
-- 🔭 I’m currently working on **Teacher Assistant in Coding Dojo Africa**
+- 🔭 I’m currently working on **Freelancer & Coding Teacher Assistant**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **AWS Cloud**
 
-- 👨‍💻 All of my projects are available at [https://github.com/BENAMORNAWFAL](https://github.com/BENAMORNAWFAL)
+- 👨‍💻 All of my projects are available at ([https://github.com/BENAMORNAWFAL](https://github.com/BENAMORNAWFAL?tab=repositories))
 
 - 📝 I regularly write articles on Web Development [https://www.linkedin.com/in/nawfalbenamor/](https://www.linkedin.com/in/nawfalbenamor/)
 
-- 💬 Ask me about **Python / Mern /Java**
+- 💬 Ask me about **Python / JavaScript /Java**
 
-- 📫 How to reach me **technobenamor@gmail.com**
+- 📫 How to reach me **nawfalbenamor94@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
