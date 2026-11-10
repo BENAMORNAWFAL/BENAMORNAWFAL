@@ -1,4 +1,4 @@
-import { readFile, writeFile } from "node:fs/promises";
+import { mkdir, readFile, writeFile } from "node:fs/promises";
 
 const owner = process.env.GITHUB_REPOSITORY_OWNER || "BENAMORNAWFAL";
 const token = process.env.GITHUB_TOKEN;
@@ -77,6 +77,7 @@ const statsSvg = `<svg xmlns="http://www.w3.org/2000/svg" width="900" height="26
 </g>
 ${languageBars}
 </svg>`;
+await mkdir("assets", { recursive: true });
 await writeFile("assets/github-overview.svg", statsSvg);
 
 const projectRows = featured.length ? featured.map(repo => {
