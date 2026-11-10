@@ -1,10 +1,10 @@
 {
   "featuredRepositories": [
     "Django-Angular",
-    "Freelances",
-    "MERN"
+    "MERN",
+    "TravelEx-Mern-Project"
   ],
   "maxLanguages": 8,
   "excludeForks": true,
   "excludeArchived": true
-}
+}\n
